@@ -1,4 +1,4 @@
-module github.com/zricethezav/go-tdameritrade
+module github.com/sshh12/go-tdameritrade
 
 go 1.12
 

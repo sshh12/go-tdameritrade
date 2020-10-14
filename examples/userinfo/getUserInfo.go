@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/zricethezav/go-tdameritrade/tdameritrade"
+	"github.com/sshh12/go-tdameritrade/tdameritrade"
 	"golang.org/x/oauth2"
 )
 
